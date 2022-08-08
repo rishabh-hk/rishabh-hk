@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Laravel for Web APIs and Integration with Flutter Development**
 
-- 👯 I’m looking to collaborate on **App Development Projects.**
-
 - 🤝 I’m looking for **Tips and Tricks for Mobile App Development to improve my productivity.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rishabh4208](https://github.com/rishabh4208)
